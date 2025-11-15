@@ -1,5 +1,4 @@
-# Triangle Area Calculator
-
+# C++ Triangle Area Calculator
 A C++ program that calculates the area of a triangle given three points in 2D space.
 
 ## Description
